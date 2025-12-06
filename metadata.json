@@ -1,0 +1,5 @@
+{
+  "name": "Sưu tầm 3: CHUYỂN VĂN BẢN THÀNH GIỌNG NÓI - V1",
+  "description": "Generate high-quality, natural-sounding speech from text using Google's Gemini API. Customize voices, speed, and pitch, with full support for SSML for advanced control.",
+  "requestFramePermissions": []
+}
